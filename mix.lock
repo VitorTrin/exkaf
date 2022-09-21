@@ -1,0 +1,10 @@
+%{
+  "datum": {:git, "https://github.com/fogfish/datum", "f5e8f0b5deb8b74d6febe046333dbb4f38b086d8", [branch: "master"]},
+  "erlkaf": {:git, "https://github.com/silviucpp/erlkaf.git", "d1730710fc3cd53d7f3f6f0cdca4bded7ff325cb", [tag: "v2.0.9"]},
+  "esq": {:git, "https://github.com/fogfish/esq.git", "3416bf929d94a061804325d86d0b90d4e8407640", [tag: "2.0.4"]},
+  "goldrush": {:git, "https://github.com/DeadZen/goldrush.git", "8f1b715d36b650ec1e1f5612c00e28af6ab0de82", [tag: "0.1.9"]},
+  "jsone": {:git, "https://github.com/sile/jsone.git", "2ebbe2361d19af3cc4c94b7345972710aec4fbda", [tag: "1.5.2"]},
+  "lager": {:git, "https://github.com/erlang-lager/lager.git", "459a3b2cdd9eadd29e5a7ce5c43932f5ccd6eb88", [tag: "3.9.2"]},
+  "pipe": {:git, "https://github.com/kfsm/pipe", "fe014ba93e85e831dac1cd636753ef44fe1ea676", [branch: "master"]},
+  "uid": {:git, "https://github.com/fogfish/uid", "d797d2403e1f3fd05236e5ab61d9a4e25420d608", [branch: "master"]},
+}
